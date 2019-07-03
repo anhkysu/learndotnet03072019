@@ -1,0 +1,11 @@
+C:\Users\ts-575\Just Test It\Phan mem Trinh test thu\TestingWinformApp1\TestingWinformApp1\obj\Debug\TestingWinformApp1.csprojAssemblyReference.cache
+C:\Users\ts-575\Just Test It\Phan mem Trinh test thu\TestingWinformApp1\TestingWinformApp1\obj\Debug\TestingWinformApp1.Properties.Resources.resources
+C:\Users\ts-575\Just Test It\Phan mem Trinh test thu\TestingWinformApp1\TestingWinformApp1\obj\Debug\TestingWinformApp1.Views.InputStudentData.inputStudentData.resources
+C:\Users\ts-575\Just Test It\Phan mem Trinh test thu\TestingWinformApp1\TestingWinformApp1\obj\Debug\TestingWinformApp1.Views.mainForm.resources
+C:\Users\ts-575\Just Test It\Phan mem Trinh test thu\TestingWinformApp1\TestingWinformApp1\obj\Debug\TestingWinformApp1.csproj.GenerateResource.cache
+C:\Users\ts-575\Just Test It\Phan mem Trinh test thu\TestingWinformApp1\TestingWinformApp1\obj\Debug\TestingWinformApp1.csproj.CoreCompileInputs.cache
+C:\Users\ts-575\Just Test It\Phan mem Trinh test thu\TestingWinformApp1\TestingWinformApp1\bin\Debug\TestingWinformApp1.exe.config
+C:\Users\ts-575\Just Test It\Phan mem Trinh test thu\TestingWinformApp1\TestingWinformApp1\bin\Debug\TestingWinformApp1.exe
+C:\Users\ts-575\Just Test It\Phan mem Trinh test thu\TestingWinformApp1\TestingWinformApp1\bin\Debug\TestingWinformApp1.pdb
+C:\Users\ts-575\Just Test It\Phan mem Trinh test thu\TestingWinformApp1\TestingWinformApp1\obj\Debug\TestingWinformApp1.exe
+C:\Users\ts-575\Just Test It\Phan mem Trinh test thu\TestingWinformApp1\TestingWinformApp1\obj\Debug\TestingWinformApp1.pdb
